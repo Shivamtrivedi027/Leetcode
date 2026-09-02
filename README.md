@@ -48,4 +48,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0877-stone-game) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
