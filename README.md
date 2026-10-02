@@ -38,6 +38,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0022-generate-parentheses) |
 | [0877-stone-game](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0022-generate-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -84,4 +86,9 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
