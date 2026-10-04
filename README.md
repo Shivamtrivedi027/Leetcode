@@ -13,6 +13,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0088-merge-sorted-array) |
+| [2396-strictly-palindromic-number](https://github.com/Shivamtrivedi027/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | [0231-power-of-two](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0342-power-of-four) |
 | [0877-stone-game](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0877-stone-game) |
+| [2396-strictly-palindromic-number](https://github.com/Shivamtrivedi027/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -91,4 +93,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0022-generate-parentheses) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Shivamtrivedi027/Leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
