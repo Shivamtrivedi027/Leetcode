@@ -19,6 +19,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -80,6 +82,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0022-generate-parentheses) |
+| [0242-valid-anagram](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
