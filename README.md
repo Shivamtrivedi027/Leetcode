@@ -36,6 +36,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0342-power-of-four) |
 ## Dynamic Programming
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0203-remove-linked-list-elements](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Hash Table
 |  |
 | ------- |
