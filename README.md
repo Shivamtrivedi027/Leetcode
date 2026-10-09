@@ -23,6 +23,7 @@
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0342-power-of-four) |
 | [0877-stone-game](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0877-stone-game) |
@@ -84,6 +85,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0022-generate-parentheses) |
+| [0168-excel-sheet-column-title](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
