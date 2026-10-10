@@ -20,6 +20,7 @@
 | [0088-merge-sorted-array](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [0191-number-of-1-bits](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0389-find-the-difference) |
 ## Recursion
 |  |
 | ------- |
@@ -67,6 +69,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -87,6 +90,7 @@
 | [0022-generate-parentheses](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0022-generate-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
 | ------- |
