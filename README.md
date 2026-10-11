@@ -8,6 +8,7 @@
 | [0088-merge-sorted-array](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0169-majority-element) |
 | [0877-stone-game](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0877-stone-game) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shivamtrivedi027/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,4 +109,8 @@
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Shivamtrivedi027/Leetcode/tree/master/2396-strictly-palindromic-number) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shivamtrivedi027/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
