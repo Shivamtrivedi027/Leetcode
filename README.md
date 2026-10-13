@@ -9,6 +9,7 @@
 | [0169-majority-element](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0169-majority-element) |
 | [0877-stone-game](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0877-stone-game) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shivamtrivedi027/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Shivamtrivedi027/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | [0169-majority-element](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0389-find-the-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Shivamtrivedi027/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
 | ------- |
@@ -113,4 +115,8 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shivamtrivedi027/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Greedy
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Shivamtrivedi027/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
