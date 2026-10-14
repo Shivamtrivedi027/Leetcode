@@ -72,6 +72,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
@@ -93,6 +94,7 @@
 | [0022-generate-parentheses](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0022-generate-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
