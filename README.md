@@ -121,4 +121,12 @@
 |  |
 | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shivamtrivedi027/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
