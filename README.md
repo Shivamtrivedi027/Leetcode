@@ -9,6 +9,7 @@
 | [0169-majority-element](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0169-majority-element) |
 | [0877-stone-game](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0877-stone-game) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shivamtrivedi027/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shivamtrivedi027/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shivamtrivedi027/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
@@ -23,6 +24,7 @@
 | [0169-majority-element](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0389-find-the-difference) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shivamtrivedi027/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shivamtrivedi027/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
@@ -74,6 +76,7 @@
 | [0242-valid-anagram](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Shivamtrivedi027/Leetcode/tree/master/0389-find-the-difference) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Shivamtrivedi027/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
